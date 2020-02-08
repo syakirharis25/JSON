@@ -29,8 +29,8 @@ Douglas Crockford : https://github.com/douglascrockford
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
-$ git clone https://github.com/syakirharis25/Windows-10.git
-$ cd Windows-10/
+$ git clone https://github.com/syakirharis25/JSON.git
+$ cd JSON/
 $ git remote -v
 $ git status
 ```
