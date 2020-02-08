@@ -11,7 +11,7 @@ My works related to Microsoft Windows 10
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="json.jpg" height="150"> 
+<img src="json.png" height="150"> 
 JavaScript Object Notation (JSON) is an open-standard file format or data interchange format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value). It is a very common data format, with a diverse range of applications, such as serving as replacement for XML in AJAX systems.
 
 JSON is a language-independent data format. It was derived from JavaScript, but many modern programming languages include code to generate and parse JSON-format data. The official Internet media type for JSON is application/json. JSON filenames use the extension .json.
