@@ -1,9 +1,6 @@
 # JSON
 My works related to JavaScript Object Notation (JSON)
 
-# Windows-10
-My works related to Microsoft Windows 10
-
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
