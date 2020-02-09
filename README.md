@@ -22,9 +22,11 @@ Douglas Crockford originally specified the JSON format in the early 2000s. JSON 
 ## 2. Official references websites.
 Official JSON website : https://www.json.org <br />
 
-Stack Overflow questions and answers website : https://stackoverflow.com <br />
+**_JSON related online tools_** <br />
+Convert JSON to YAML online https://www.json2yaml.com <br />
 
 **_JSON questions and answers by Stack overflow_** <br />
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
 What is the difference between YAML and JSON? : https://stackoverflow.com/questions/1726802/what-is-the-difference-between-yaml-and-json
 
 **_JSON developers_** <br />
