@@ -24,7 +24,7 @@ Official JSON website : https://www.json.org <br />
 
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
-**_JSON questions and answers by Stack overflow_**
+**_JSON questions and answers by Stack overflow_** <br />
 What is the difference between YAML and JSON? : https://stackoverflow.com/questions/1726802/what-is-the-difference-between-yaml-and-json
 
 **_JSON developers_** <br />
