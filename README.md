@@ -5,6 +5,7 @@ My works related to JavaScript Object Notation (JSON)
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [GitHub notes.](#github)
+4. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -41,3 +42,14 @@ $ cd JSON/
 $ git remote -v
 $ git status
 ```
+
+<a name="calculation"></a>
+## 4. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              8              0             28
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
