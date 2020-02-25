@@ -19,6 +19,7 @@ Douglas Crockford originally specified the JSON format in the early 2000s. JSON 
 <a name="references"></a>
 ## 2. Official references websites.
 Official JSON website : https://www.json.org <br />
+JSON formatter : https://jsonformatter.curiousconcept.com/ <br />
 
 **_JSON related online tools_** <br />
 Convert JSON to YAML online https://www.json2yaml.com <br />
