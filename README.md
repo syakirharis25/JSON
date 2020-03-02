@@ -34,8 +34,7 @@ Jayway JsonPath : https://github.com/json-path/jsonpath
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 What is the difference between YAML and JSON? : https://stackoverflow.com/questions/1726802/what-is-the-difference-between-yaml-and-json
 
-**_JSON developers_** <br />
-Douglas Crockford : https://github.com/douglascrockford
+JSON was created by Douglas Crockford : https://github.com/douglascrockford
 
 <a name="github"></a>
 ## 3. GitHub notes.
